@@ -1,0 +1,3 @@
+[submodule "tardis-atomdata"]
+	path = tardis-atomdata
+	url = https://github.com/tardis-sn/tardis-atomdata

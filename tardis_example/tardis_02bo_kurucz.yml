@@ -70,15 +70,6 @@ montecarlo:
 
   no_of_virtual_packets: 3
 
-  convergence_strategy:
-    type: specific
-    damping_constant: 1.0
-    threshold: 0.05
-    fraction: 0.8
-    hold_iterations: 3
-    t_inner:
-      damping_constant: 1.0
-
 
 spectrum:
   start: 500 angstrom
